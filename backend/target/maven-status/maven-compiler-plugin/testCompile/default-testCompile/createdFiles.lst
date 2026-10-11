@@ -1,0 +1,5 @@
+com\hackathon\order\integration\OrderIntegrationTest.class
+com\hackathon\order\service\DeadLetterServiceTest.class
+com\hackathon\order\service\RetryServiceTest.class
+com\hackathon\order\service\OrderServiceTest.class
+com\hackathon\order\service\InventoryServiceTest.class

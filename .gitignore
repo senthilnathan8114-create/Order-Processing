@@ -1,0 +1,26 @@
+# Installed dependencies and build outputs
+node_modules/
+dist/
+target/
+build/
+.vite/
+
+# Local environment files and sensitive configurations
+.env
+.env.*
+!.env.example
+backend/src/main/resources/application.properties.yml
+
+# IDE / operating system files
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Local data and logs
+*.log
+*.db
+*.sqlite
+*.sqlite3
+logs/

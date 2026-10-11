@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.hackathon.order.service.InventoryServiceTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.207 s -- in com.hackathon.order.service.InventoryServiceTest
